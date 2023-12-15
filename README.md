@@ -1,4 +1,11 @@
-### Hi there 👋
+### Bijan Rahnema 👋
+
+Hi 👋! My name is Bijan. I'm running an independent software development company called [Screen Island](https://screenisland.com). 
+We believe most software is too complex. 
+Therefore we are on a mission to make software more approachable and achieve more with less effort using sustainable and maintainable concepts and frameworks.
+We are specialized in Ruby on Rails, Go and C#.
+
+
 
 <!--
 **gobijan/gobijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
