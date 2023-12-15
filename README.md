@@ -11,7 +11,11 @@ Fetch, send and analyze your emails through a single, robust API. Easy email pro
 ## A Few of my Articles
 
 - [Go, WebSockets, HTMX, and DOM Morphing is fun](https://screenisland.com/2023/12/11/go-websockets-htmx-morphing-is-fun/)
+- [Rails World 2023 Recap](https://screenisland.com/2023/10/23/rails-world-2023-recap/)
 - [Rails Realtime JSON API](https://screenisland.com/2022/10/05/ruby-on-rails-realtime-api/)
+
+## Open Source
+I firmly believe in the power and potential of open-source software. It's not just about using the tools and frameworks it offers, but also about giving back to the community. I maintain a strong discipline in contributing to open-source projects. Whenever I encounter an opportunity to improve something, be it a bug fix or an enhancement, I take the initiative to create a pull request. This practice not only helps the community but also enhances my skills and understanding of diverse codebases.
 
 <!--
 **gobijan/gobijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
